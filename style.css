@@ -1,0 +1,27 @@
+.name-color{
+    color:mediumvioletred;
+}
+.top-banner{
+
+    background-image:url(ImagesP/header-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    overflow: hidden;
+    width:100%
+
+
+
+
+
+}
+.helf-width{
+    width:30%;
+    float:left;
+    margin-left:9%
+
+
+}
+.helf-width img{
+    width:100%
+
+}
